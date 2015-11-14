@@ -1,7 +1,7 @@
 import math
 """
 Besides the trivial solution involving a for-loop running 1000 times,
-this one uses an A.P. summation. Complexity would remain the same though
+this one uses an A.P. summation. 
 """
 def summation(k, size):
     # Sum of AP is simply, (n/2)(a1+an) :: an = last element

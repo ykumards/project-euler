@@ -54,7 +54,7 @@ def permute(num_list, l, r):
 
 ############ Main ###########
 start = timeit.default_timer()
-input_list = [0,1,2,3,4,5,6,7,8,9]
+input_list = range(10)
 n = len(input_list)
 #a = list(input_str)
 count = 1

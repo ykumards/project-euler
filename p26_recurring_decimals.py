@@ -16,7 +16,6 @@ def main():
         pos = 0
         rep_length = 0
         while remainder:
-            quotient = dividend//divisor
             remainder = dividend % divisor
             pos += 1
             if remainder not in rem_dict:

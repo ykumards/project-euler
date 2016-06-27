@@ -9,4 +9,4 @@ Working my way through Project Euler puzzles. Solutions are in Python and C++
 | Lang   | Count|
 |--------|------|
 | Python |  27  |
-| C++    |  10  |
+| C++    |  11  |

@@ -10,4 +10,4 @@ Working my way through Project Euler puzzles. Solutions are in Python and C++
 |--------|------|
 | Python |  27  |
 | C++    |  11  |
-| Java   |  4   |
+| Java   |  5   |
